@@ -8,6 +8,7 @@ Estudiante de **Ingeniería en Ciberseguridad en INACAP**, cursando el último a
 
 | Proyecto | Qué contiene | Enlaces |
 | --- | --- | --- |
+| **Deskisiao RP** | Proyecto propio de comunidad FiveM: web publicada con identidad visual, navegación adaptable y normativa por capítulos con búsqueda. HTML, CSS y JavaScript en Cloudflare Pages. | [Web publicada](https://deskisiao.pages.dev/) · [Caso de estudio](https://bastiiiuuu.github.io/proyectos/deskisiao.html) |
 | **Mis Reinas** | Aplicación académica con Django, ofertas, categorías y sucursales relacionadas; API JSON de consulta, filtros y pruebas. | [Código y arquitectura](https://github.com/bastiiiuuu/Misreinas) · [Caso de estudio](https://bastiiiuuu.github.io/proyectos/misreinas.html) |
 | **Gestor de tareas** | React, CRUD en el navegador, búsqueda y persistencia con recuperación ante datos inválidos. | [Código](https://github.com/bastiiiuuu/Certamen-4) · [Demo](https://bastiiiuuu.github.io/Certamen-4/) |
 | **Calculadora de notas** | Promedios ponderados, validación y estimación de una nota mínima sin redondear por debajo del objetivo. | [Código](https://github.com/bastiiiuuu/calculadora-notas-10-pts) · [Demo](https://bastiiiuuu.github.io/calculadora-notas-10-pts/) |
@@ -17,7 +18,7 @@ Estudiante de **Ingeniería en Ciberseguridad en INACAP**, cursando el último a
 
 **Interfaces:** JavaScript, React, HTML y CSS.  
 **Servidor y datos:** Python, Django y SQLite; FastAPI en la edición local del atlas.  
-**Verificación:** node:test, unittest, ESLint y GitHub Actions.
+**Verificación y publicación:** node:test, unittest, ESLint, GitHub Actions, GitHub Pages y Cloudflare Pages.
 
 Los repositorios incluyen instrucciones de instalación, límites y casos de prueba. La presencia de una tecnología muestra su uso en un proyecto, sin convertirla en una afirmación de dominio profesional.
 
