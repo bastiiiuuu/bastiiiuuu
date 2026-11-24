@@ -9,14 +9,21 @@ Estudiante de **Ingeniería en Ciberseguridad en INACAP**, cursando el último a
 | Proyecto | Qué contiene | Enlaces |
 | --- | --- | --- |
 | **Deskisiao RP** | Proyecto propio de comunidad FiveM: web publicada con identidad visual, navegación adaptable y normativa por capítulos con búsqueda. HTML, CSS y JavaScript en Cloudflare Pages. | [Web publicada](https://deskisiao.pages.dev/) · [Caso de estudio](https://bastiiiuuu.github.io/proyectos/deskisiao.html) |
+| **Deskisiao · servidor FiveM** | Integración, personalización y mantenimiento con QBCore. Permisos, dependencias y pruebas de cambios acotados; recursos de terceros identificados. | [Caso técnico](https://bastiiiuuu.github.io/proyectos/deskisiao-servidor.html) |
+| **SEFEL** | Prototipo académico de escritorio con Python, CustomTkinter y SQLite: recursos, APU, partidas, presupuestos y documentos. | [Caso de estudio](https://bastiiiuuu.github.io/proyectos/sefel.html) |
+| **Agenda veterinaria Android** | Certamen con Kotlin y XML: formularios, validaciones, atención veterinaria y cálculo de importes. Acceso local didáctico. | [Caso de estudio](https://bastiiiuuu.github.io/proyectos/agenda-android.html) |
 | **Mis Reinas** | Aplicación académica con Django, ofertas, categorías y sucursales relacionadas; API JSON de consulta, filtros y pruebas. | [Código y arquitectura](https://github.com/bastiiiuuu/Misreinas) · [Caso de estudio](https://bastiiiuuu.github.io/proyectos/misreinas.html) |
 | **Gestor de tareas** | React, CRUD en el navegador, búsqueda y persistencia con recuperación ante datos inválidos. | [Código](https://github.com/bastiiiuuu/Certamen-4) · [Demo](https://bastiiiuuu.github.io/Certamen-4/) |
 | **Calculadora de notas** | Promedios ponderados, validación y estimación de una nota mínima sin redondear por debajo del objetivo. | [Código](https://github.com/bastiiiuuu/calculadora-notas-10-pts) · [Demo](https://bastiiiuuu.github.io/calculadora-notas-10-pts/) |
 | **Atlas de anatomía** | Visualización 3D con Three.js y backend local FastAPI. Proyecto desarrollado con apoyo de IA y modelos de terceros con atribuciones. | [Código](https://github.com/bastiiiuuu/anatomia-mvp) · [Demo](https://bastiiiuuu.github.io/anatomia-mvp/) |
 
+### Proyecto en desarrollo
+
+**SmartAttendance 360:** sistema IoT de asistencia y gestión laboral con participación compartida en hardware, web, backend y móvil. Mecanismo físico preparado e integración en desarrollo. Flutter, React, Node.js y PostgreSQL son parte del stack propuesto. [Alcance y arquitectura prevista](https://bastiiiuuu.github.io/proyectos/smartattendance.html).
+
 ### Tecnologías presentes en estos proyectos
 
-**Interfaces:** JavaScript, React, HTML y CSS.  
+**Interfaces:** JavaScript, React, HTML y CSS; Kotlin y XML en Android, CustomTkinter en escritorio.  
 **Servidor y datos:** Python, Django y SQLite; FastAPI en la edición local del atlas.  
 **Verificación y publicación:** node:test, unittest, ESLint, GitHub Actions, GitHub Pages y Cloudflare Pages.
 
